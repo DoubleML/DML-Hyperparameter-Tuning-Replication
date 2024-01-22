@@ -1,5 +1,5 @@
 # DML Hyperparameter Tuning Replication Files
-In this Repo we provide the replication code to our simulations as well as the results.
+In this Repo we provide the replication code to our simulations as well as the results. The code for the motivating example (Section 2) is provided in the subdirectory `motivation_example_BCH`, see [the separate README file](motivation_example_BCH/README.md) for more information.
 
 ## Data Generating Processes
 The data generating processes (dgp) can be found in the `dgp` folder. Note: Due to capacity constrains, we do not provide the `ACIC` datasets. However, the `R` files creating the datasets can be found on the [ACIC 2019 data challenge website]([https://drive.google.com/file/d/1Qqgmb3R9Vt9KTx6t8i_5IbFenylsPfrK/view?usp=sharing](https://sites.google.com/view/acic2019datachallenge/data-challenge)https://sites.google.com/view/acic2019datachallenge/data-challenge).
